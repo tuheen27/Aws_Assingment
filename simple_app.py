@@ -65,4 +65,4 @@ if __name__ == '__main__':
     print("Starting Simple Flask Application...")
     print("Home page: http://localhost:5000")
     print("Data API: http://localhost:5000/data")
-    app.run(debug=True, host='localhost', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5000)
