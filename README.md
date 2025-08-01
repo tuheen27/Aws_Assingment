@@ -1,4 +1,4 @@
-# DevOps Assignment 2 - External Data Fetcher
+# DevOps Assignment 6 - External Data Fetcher
 
 ## Overview
 This is a Flask web application created for DevOps Assignment 2. The application fetches data from an external API and displays it through a web interface.
